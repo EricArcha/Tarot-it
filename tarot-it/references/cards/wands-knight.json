@@ -1,0 +1,42 @@
+{
+  "id": "wands-knight",
+  "name_zh": "权杖骑士",
+  "name_en": "Knight of Wands",
+  "arcana": "minor",
+  "image_id": "wands-knight",
+  "imagery": [
+    "扬起前蹄的马",
+    "沙丘",
+    "举起木杖"
+  ],
+  "upright": {
+    "themes": [
+      "出发",
+      "行动速度"
+    ],
+    "meaning": "有移动或换环境的动力。出发可以很快，最好先想好哪一步做完就停下核对。"
+  },
+  "reversed": {
+    "themes": [
+      "中断",
+      "行动冲突"
+    ],
+    "meaning": "太快的动作可能撞上别人的节奏，先处理分歧或停顿，再决定是否继续原路线。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Knight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/knight-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留旅人出发的动势，逆位把过急和受阻放在同一条检查线上。"
+    }
+  },
+  "suit": "wands",
+  "rank": "knight"
+}

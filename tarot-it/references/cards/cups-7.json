@@ -1,0 +1,41 @@
+{
+  "id": "cups-7",
+  "name_zh": "圣杯七",
+  "name_en": "Seven of Cups",
+  "arcana": "minor",
+  "image_id": "cups-7",
+  "imagery": [
+    "云中七杯",
+    "杯里各类影像"
+  ],
+  "upright": {
+    "themes": [
+      "诱人的选项",
+      "想象"
+    ],
+    "meaning": "一眼看去每个选择都很有戏。先问这些选项哪一个有看得见的成本和进展。"
+  },
+  "reversed": {
+    "themes": [
+      "收束选择",
+      "下决心"
+    ],
+    "meaning": "可能已经到了从想象进入行动的时候。先选一个能试的小方案，暂时放下其他画面。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Seven",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/seven-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位区分想象与可检验选项，逆位保留意志和项目，把过载收束成可试决定。"
+    }
+  },
+  "suit": "cups",
+  "rank": "7"
+}

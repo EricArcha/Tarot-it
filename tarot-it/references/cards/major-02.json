@@ -1,0 +1,45 @@
+{
+  "id": "major-02",
+  "name_zh": "女祭司",
+  "name_en": "The High Priestess",
+  "arcana": "major",
+  "image_id": "major-02",
+  "imagery": [
+    "黑白双柱",
+    "帘幕",
+    "新月"
+  ],
+  "upright": {
+    "themes": [
+      "静观",
+      "未明"
+    ],
+    "meaning": "有些信息还在帘子后面。给自己一点安静，把确实观察到的和心里猜的分开。"
+  },
+  "reversed": {
+    "themes": [
+      "一知半解",
+      "情绪盖过判断"
+    ],
+    "meaning": "感觉很强的时候，容易把它当证据，也可能干脆把它压下去。先记下你真实察觉的事，再找一个可核实的事实。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The High Priestess",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The High Priestess",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/high-priestess/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留对未明信息的耐心，逆位补入忽视感受和感受盖过事实的两种情况。"
+    }
+  },
+  "number": 2
+}

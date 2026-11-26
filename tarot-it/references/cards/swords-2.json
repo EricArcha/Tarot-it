@@ -1,0 +1,42 @@
+{
+  "id": "swords-2",
+  "name_zh": "宝剑二",
+  "name_en": "Two of Swords",
+  "arcana": "minor",
+  "image_id": "swords-2",
+  "imagery": [
+    "蒙眼坐者",
+    "交叠双剑",
+    "水上新月"
+  ],
+  "upright": {
+    "themes": [
+      "僵持",
+      "暂时平衡"
+    ],
+    "meaning": "双方都不动也能维持一个局面。问问还缺哪条信息，会让你愿意放下一把剑。"
+  },
+  "reversed": {
+    "themes": [
+      "判断受干扰",
+      "僵局松动"
+    ],
+    "meaning": "外来的说法可能让局势更乱，也可能让你看见被漏掉的线索。先弄清每条消息从哪来。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Two",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/two-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保持韦特的武装平衡，逆位兼顾信息过载及发现遗漏信息后的调整。"
+    }
+  },
+  "suit": "swords",
+  "rank": "2"
+}

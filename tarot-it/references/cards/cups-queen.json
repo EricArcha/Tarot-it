@@ -1,0 +1,42 @@
+{
+  "id": "cups-queen",
+  "name_zh": "圣杯王后",
+  "name_en": "Queen of Cups",
+  "arcana": "minor",
+  "image_id": "cups-queen",
+  "imagery": [
+    "有盖华美杯",
+    "临水石座",
+    "脚边卵石"
+  ],
+  "upright": {
+    "themes": [
+      "体察",
+      "同理心"
+    ],
+    "meaning": "你可能能较早察觉气氛变化。给对方一点理解，同时把自己的情绪也放在照顾范围里。"
+  },
+  "reversed": {
+    "themes": [
+      "情绪卷入",
+      "判断失准"
+    ],
+    "meaning": "对别人的感受太敏感，容易把别人的心情都接过来。分清你能陪伴的和对方要自己承担的。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Queen",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/queen-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位确认理解感受的能力，逆位纳入内在照顾及把他人感受都接过来的风险。"
+    }
+  },
+  "suit": "cups",
+  "rank": "queen"
+}

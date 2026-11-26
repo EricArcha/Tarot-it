@@ -1,0 +1,45 @@
+{
+  "id": "major-15",
+  "name_zh": "恶魔",
+  "name_en": "The Devil",
+  "arcana": "major",
+  "image_id": "major-15",
+  "imagery": [
+    "带角形象",
+    "台座",
+    "两条松环锁链"
+  ],
+  "upright": {
+    "themes": [
+      "牵制",
+      "惯性"
+    ],
+    "meaning": "留意一件明知有代价却反复去做的事。先看清它给了什么回报，又拿走了什么。"
+  },
+  "reversed": {
+    "themes": [
+      "难以松绑",
+      "开始看见束缚"
+    ],
+    "meaning": "依赖或回避可能还掌握着节奏。认出最容易触发的环节，试一个你能做得到的替代动作。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Devil",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Devil",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/devil/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留束缚的代价与实际回报，逆位用看见触发点来处理松绑或暂时松不了绑。"
+    }
+  },
+  "number": 15
+}

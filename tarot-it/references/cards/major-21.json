@@ -1,0 +1,45 @@
+{
+  "id": "major-21",
+  "name_zh": "世界",
+  "name_en": "The World",
+  "arcana": "major",
+  "image_id": "major-21",
+  "imagery": [
+    "椭圆花冠",
+    "舞者的双杖",
+    "四角形象"
+  ],
+  "upright": {
+    "themes": [
+      "完成",
+      "整合"
+    ],
+    "meaning": "这一段工作可能已经可以有个结尾。整理出真正完成的部分，再把经验带去下一段。"
+  },
+  "reversed": {
+    "themes": [
+      "停滞",
+      "收尾未合"
+    ],
+    "meaning": "大部分进展已经发生，仍有一个收尾环节牵着你。给它一个具体的完成标准。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The World",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The World",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/world/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位归拢完成的部分，逆位给迟到的收尾设可检验标准。"
+    }
+  },
+  "number": 21
+}

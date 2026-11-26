@@ -1,0 +1,42 @@
+{
+  "id": "swords-10",
+  "name_zh": "宝剑十",
+  "name_en": "Ten of Swords",
+  "arcana": "minor",
+  "image_id": "swords-10",
+  "imagery": [
+    "地上的人",
+    "十剑",
+    "地平线微光"
+  ],
+  "upright": {
+    "themes": [
+      "耗尽",
+      "一个阶段到了尽头"
+    ],
+    "meaning": "已经花了很多力气，也许到了该停手的地方。先照顾眼下能处理的一件事，不用马上给结局找理由。"
+  },
+  "reversed": {
+    "themes": [
+      "短暂缓和",
+      "恢复尚脆弱"
+    ],
+    "meaning": "好转可能刚开始。别急着恢复原来全部负荷，先看看哪部分稳定下来，哪部分还会反复。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Ten",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/ten-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用耗尽解释结束，逆位保留韦特好转未稳，也允许逐步恢复。"
+    }
+  },
+  "suit": "swords",
+  "rank": "10"
+}

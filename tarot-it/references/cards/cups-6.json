@@ -1,0 +1,42 @@
+{
+  "id": "cups-6",
+  "name_zh": "圣杯六",
+  "name_en": "Six of Cups",
+  "arcana": "minor",
+  "image_id": "cups-6",
+  "imagery": [
+    "两个孩子",
+    "盛花圣杯",
+    "旧庭院"
+  ],
+  "upright": {
+    "themes": [
+      "回忆",
+      "熟悉感"
+    ],
+    "meaning": "过去的经验可能给你一点安全感。借用那时有效的做法，也看看现在有哪些新条件。"
+  },
+  "reversed": {
+    "themes": [
+      "面向以后",
+      "旧记忆松手"
+    ],
+    "meaning": "如果记忆总把你拉回原处，可以挑一件那时有效的做法带到今天，再用现在的人和事试出新节奏。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Six",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/six-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位借鉴早期记忆，逆位并列韦特的面向以后和现代的不易离开旧记忆。"
+    }
+  },
+  "suit": "cups",
+  "rank": "6"
+}

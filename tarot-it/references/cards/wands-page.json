@@ -1,0 +1,41 @@
+{
+  "id": "wands-page",
+  "name_zh": "权杖侍从",
+  "name_en": "Page of Wands",
+  "arcana": "minor",
+  "image_id": "wands-page",
+  "imagery": [
+    "站在沙地的年轻人",
+    "直立木杖"
+  ],
+  "upright": {
+    "themes": [
+      "讯息",
+      "尝试"
+    ],
+    "meaning": "像拿着一条刚到的消息那样，允许自己好奇。用一次小试验看看事情有没有后续。"
+  },
+  "reversed": {
+    "themes": [
+      "消息摇摆",
+      "冲劲散开"
+    ],
+    "meaning": "听到的消息可能还会变，兴趣也可能来得快去得快。承诺之前先确认一个可追踪的细节。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Page",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/page-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留信使的试探性，逆位关注刚到的消息如何分散方向。"
+    }
+  },
+  "suit": "wands",
+  "rank": "page"
+}

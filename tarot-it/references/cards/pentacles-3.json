@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-3",
+  "name_zh": "星币三",
+  "name_en": "Three of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-3",
+  "imagery": [
+    "台阶上的工匠",
+    "查看图样的人",
+    "建筑拱顶"
+  ],
+  "upright": {
+    "themes": [
+      "技艺",
+      "合作"
+    ],
+    "meaning": "让懂手艺的人参与讨论，先把共同标准说清楚。不同角色可以一起把这件东西做出来。"
+  },
+  "reversed": {
+    "themes": [
+      "敷衍",
+      "标准不合"
+    ],
+    "meaning": "结果不好未必是某人不够努力。把交付预期和反馈说具体，看是分工没对齐还是确有技能欠缺。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Three",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/three-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位读工艺与共同标准，逆位把韦特的粗糙具体化为协作或技能缺口。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "3"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-6",
+  "name_zh": "星币六",
+  "name_en": "Six of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-6",
+  "imagery": [
+    "手持天平者",
+    "跪坐的两人",
+    "分给的星币"
+  ],
+  "upright": {
+    "themes": [
+      "给予",
+      "资源分配"
+    ],
+    "meaning": "付出和接受都有条件。把获得帮助的方式、可承受的付出和各方的期望说清楚。"
+  },
+  "reversed": {
+    "themes": [
+      "不对等",
+      "援助附带期待"
+    ],
+    "meaning": "如果帮助总让人觉得欠债，就值得核对双方承诺。可以明确给到哪里，以及什么不属于交易条件。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Six",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/six-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位解释双向资源关系，逆位检验慷慨是否附有未说清的条件。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "6"
+}

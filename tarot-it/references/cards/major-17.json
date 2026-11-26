@@ -1,0 +1,45 @@
+{
+  "id": "major-17",
+  "name_zh": "星星",
+  "name_en": "The Star",
+  "arcana": "major",
+  "image_id": "major-17",
+  "imagery": [
+    "大星与七颗小星",
+    "两壶水",
+    "池与岸"
+  ],
+  "upright": {
+    "themes": [
+      "恢复",
+      "带着希望行动"
+    ],
+    "meaning": "经历耗损后，可能已经有一小点能恢复的力量。给它一个常做得到的机会，比强求进展实际。"
+  },
+  "reversed": {
+    "themes": [
+      "信心耗损",
+      "期待过度"
+    ],
+    "meaning": "想快点证明一切会好，反而可能添压力。从眼下能照料的一件小事重新建立信心。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Star",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Star",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/star/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "在韦特并列的读法中选恢复，逆位重看信任和可维护的小进度。"
+    }
+  },
+  "number": 17
+}

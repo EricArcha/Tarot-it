@@ -1,0 +1,42 @@
+{
+  "id": "swords-queen",
+  "name_zh": "宝剑王后",
+  "name_en": "Queen of Swords",
+  "arcana": "minor",
+  "image_id": "swords-queen",
+  "imagery": [
+    "竖剑",
+    "伸出的手",
+    "云上座椅"
+  ],
+  "upright": {
+    "themes": [
+      "分辨",
+      "经历后的界线"
+    ],
+    "meaning": "曾有的失落可以教会人把话说清楚。既顾及感受，也给自己设一个有依据的底线。"
+  },
+  "reversed": {
+    "themes": [
+      "刻薄",
+      "旧伤影响评判"
+    ],
+    "meaning": "表达越尖锐越容易忽略具体事实。先看你在回应的是眼前这个人，还是过去熟悉的情景。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Queen",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/queen-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把经验转化为清晰界线，逆位检查尖锐表达是否被旧处境牵引。"
+    }
+  },
+  "suit": "swords",
+  "rank": "queen"
+}

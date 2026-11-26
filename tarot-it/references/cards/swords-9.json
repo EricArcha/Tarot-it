@@ -1,0 +1,42 @@
+{
+  "id": "swords-9",
+  "name_zh": "宝剑九",
+  "name_en": "Nine of Swords",
+  "arcana": "minor",
+  "image_id": "swords-9",
+  "imagery": [
+    "床上掩面的人",
+    "九把横剑",
+    "被面花纹"
+  ],
+  "upright": {
+    "themes": [
+      "焦虑",
+      "反复想"
+    ],
+    "meaning": "深夜独自想事情，担心容易显得无边无际。把最具体的一条写下来，分辨它需要行动还是休息。"
+  },
+  "reversed": {
+    "themes": [
+      "疑虑",
+      "羞耻不易说出口"
+    ],
+    "meaning": "一件担心藏得越久，越容易变成对自己的判断。可以找可信的人说出其中最具体的部分。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Nine",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/nine-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位将担忧具体化，逆位保留羞耻和怀疑，并给场景中可以表达的空间。"
+    }
+  },
+  "suit": "swords",
+  "rank": "9"
+}

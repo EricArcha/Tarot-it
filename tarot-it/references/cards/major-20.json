@@ -1,0 +1,45 @@
+{
+  "id": "major-20",
+  "name_zh": "审判",
+  "name_en": "Judgement",
+  "arcana": "major",
+  "image_id": "major-20",
+  "imagery": [
+    "吹号天使",
+    "起身的人群",
+    "十字旗"
+  ],
+  "upright": {
+    "themes": [
+      "回顾",
+      "回应"
+    ],
+    "meaning": "回头看过去一段经历，认真决定哪些做法仍值得继续，你愿意回应哪种召唤。"
+  },
+  "reversed": {
+    "themes": [
+      "迟疑",
+      "自我裁判"
+    ],
+    "meaning": "反复给自己下判决容易掩盖改动的机会。把笼统责备换成一个具体判断和下一步。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Last Judgment",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Last Judgment",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/judgement/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用经历促成回应，逆位用可改动的事实代替空泛自责。"
+    }
+  },
+  "number": 20
+}

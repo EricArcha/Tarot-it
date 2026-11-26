@@ -1,0 +1,45 @@
+{
+  "id": "major-18",
+  "name_zh": "月亮",
+  "name_en": "The Moon",
+  "arcana": "major",
+  "image_id": "major-18",
+  "imagery": [
+    "两座塔",
+    "犬与狼",
+    "爬出水面的螯虾"
+  ],
+  "upright": {
+    "themes": [
+      "模糊",
+      "警觉"
+    ],
+    "meaning": "朦胧时远处的轮廓容易被看错。先把感受记下来，等多一点证据再判断方向。"
+  },
+  "reversed": {
+    "themes": [
+      "疑虑松动",
+      "信息仍不稳"
+    ],
+    "meaning": "一点线索可能正在显形。可以先核实它来自哪里，再改动你对整件事的判断。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Moon",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Moon",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/moon/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用不确定性约束推断，逆位把误差减轻和核实仍未完整分开。"
+    }
+  },
+  "number": 18
+}

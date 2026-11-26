@@ -1,0 +1,45 @@
+{
+  "id": "major-00",
+  "name_zh": "愚者",
+  "name_en": "The Fool",
+  "arcana": "major",
+  "image_id": "major-00",
+  "imagery": [
+    "崖缘",
+    "白玫瑰",
+    "小白狗"
+  ],
+  "upright": {
+    "themes": [
+      "新开始",
+      "迈步"
+    ],
+    "meaning": "脚已经抬起来，路还没有摸熟。可以从一个能回头的小尝试开始，边走边校准。"
+  },
+  "reversed": {
+    "themes": [
+      "疏忽",
+      "冒进"
+    ],
+    "meaning": "兴奋可能盖过了眼前的风险。先看看落脚处，把一个没核对的条件补上再走。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Fool",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Fool",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/fool/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "保留试走一步的主动性，逆位兼顾迟疑和冒进，取可回头的行动尺度。"
+    }
+  },
+  "number": 0
+}

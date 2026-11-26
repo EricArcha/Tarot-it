@@ -1,0 +1,45 @@
+{
+  "id": "major-06",
+  "name_zh": "恋人",
+  "name_en": "The Lovers",
+  "arcana": "major",
+  "image_id": "major-06",
+  "imagery": [
+    "两个人",
+    "上方天使",
+    "两棵树"
+  ],
+  "upright": {
+    "themes": [
+      "吸引",
+      "价值相合"
+    ],
+    "meaning": "除了彼此吸引，也可以谈谈两个人实际重视什么，哪些约定双方都愿意承担。"
+  },
+  "reversed": {
+    "themes": [
+      "选择失配",
+      "期待冲突"
+    ],
+    "meaning": "心动和愿意承担的事情可能对不上。先说清自己愿意给什么，边界在哪里。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Lovers",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Lovers",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/lovers/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把吸引和价值承诺一起考虑，逆位回到期待不一致和个人边界。"
+    }
+  },
+  "number": 6
+}

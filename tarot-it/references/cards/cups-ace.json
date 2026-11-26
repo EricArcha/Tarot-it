@@ -1,0 +1,42 @@
+{
+  "id": "cups-ace",
+  "name_zh": "圣杯一",
+  "name_en": "Ace of Cups",
+  "arcana": "minor",
+  "image_id": "cups-ace",
+  "imagery": [
+    "云中托杯",
+    "白鸽",
+    "水流与水莲"
+  ],
+  "upright": {
+    "themes": [
+      "情感滋养",
+      "开放"
+    ],
+    "meaning": "可以承认心里刚生来的感受，为它腾一点空间，等它稳定后再决定怎么表达。"
+  },
+  "reversed": {
+    "themes": [
+      "情感摇晃",
+      "失衡"
+    ],
+    "meaning": "感受可能一阵强一阵弱。先给自己一点照顾和空间，等情绪没那么急，再决定怎么说。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Ace",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/ace-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位为新感受留空间，逆位从韦特的不稳定回到可以照顾的内在感受。"
+    }
+  },
+  "suit": "cups",
+  "rank": "ace"
+}

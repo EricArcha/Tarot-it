@@ -1,0 +1,41 @@
+{
+  "id": "wands-8",
+  "name_zh": "权杖八",
+  "name_en": "Eight of Wands",
+  "arcana": "minor",
+  "image_id": "wands-8",
+  "imagery": [
+    "八杖斜过天空",
+    "河谷与远景"
+  ],
+  "upright": {
+    "themes": [
+      "加速",
+      "消息"
+    ],
+    "meaning": "好几件事正在往同一方向推进。趁窗口还在，把最关键的信息及时对齐。"
+  },
+  "reversed": {
+    "themes": [
+      "内部摩擦",
+      "急而乱"
+    ],
+    "meaning": "信息跑得太快，误读和争执也会跟着跑。先确认一条最重要的消息是否被双方同样理解。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Eight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/eight-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留速度和消息，逆位兼顾韦特内部争执与现代的延迟和不同步。"
+    }
+  },
+  "suit": "wands",
+  "rank": "8"
+}

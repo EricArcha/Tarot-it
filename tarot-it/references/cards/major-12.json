@@ -1,0 +1,45 @@
+{
+  "id": "major-12",
+  "name_zh": "倒吊人",
+  "name_en": "The Hanged Man",
+  "arcana": "major",
+  "image_id": "major-12",
+  "imagery": [
+    "脚踝被吊",
+    "头部光环",
+    "交叉的腿"
+  ],
+  "upright": {
+    "themes": [
+      "暂停",
+      "换角度"
+    ],
+    "meaning": "此时暂缓推进，可能比硬拽更容易看清。说清这段等待是为了看见什么。"
+  },
+  "reversed": {
+    "themes": [
+      "牺牲失衡",
+      "受舆论困住"
+    ],
+    "meaning": "等待太久会让代价落到一个人身上。检查自己是有意停留，还是把选择交给了周围的声音。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Hanged Man",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Hanged Man",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/hanged-man/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位强调有目的的暂停，逆位把社会拉扯落实到久拖不决及失衡代价。"
+    }
+  },
+  "number": 12
+}

@@ -1,0 +1,42 @@
+{
+  "id": "swords-5",
+  "name_zh": "宝剑五",
+  "name_en": "Five of Swords",
+  "arcana": "minor",
+  "image_id": "swords-5",
+  "imagery": [
+    "手握多剑者",
+    "离去的两人",
+    "地上双剑"
+  ],
+  "upright": {
+    "themes": [
+      "争端",
+      "赢的代价"
+    ],
+    "meaning": "有时争到最后只留下输赢。看看这次胜利若要付出关系或信任，是否仍然值得。"
+  },
+  "reversed": {
+    "themes": [
+      "余波",
+      "难以收场"
+    ],
+    "meaning": "争执结束后，后果还在。先确认你能修补什么，再决定要不要请对方一起谈。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Five",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/five-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位看争胜后的实际代价，逆位把原典尚存损失转成修补仍有余波的情境。"
+    }
+  },
+  "suit": "swords",
+  "rank": "5"
+}

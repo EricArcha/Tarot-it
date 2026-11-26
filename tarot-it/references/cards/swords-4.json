@@ -1,0 +1,42 @@
+{
+  "id": "swords-4",
+  "name_zh": "宝剑四",
+  "name_en": "Four of Swords",
+  "arcana": "minor",
+  "image_id": "swords-4",
+  "imagery": [
+    "卧像",
+    "墙上三剑",
+    "彩窗"
+  ],
+  "upright": {
+    "themes": [
+      "休息",
+      "退开"
+    ],
+    "meaning": "先把一部分战线收起来。给自己一段真的能恢复的时间，再决定何时回到这件事。"
+  },
+  "reversed": {
+    "themes": [
+      "谨慎复工",
+      "停过头"
+    ],
+    "meaning": "恢复可以从有限的一件小工作开始。先给它留边界，看看精力是否真的回来了。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Four",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/four-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位允许恢复，逆位把韦特的审慎管理与现代的耗竭、滞留一起判断。"
+    }
+  },
+  "suit": "swords",
+  "rank": "4"
+}

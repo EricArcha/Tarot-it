@@ -1,0 +1,41 @@
+{
+  "id": "swords-3",
+  "name_zh": "宝剑三",
+  "name_en": "Three of Swords",
+  "arcana": "minor",
+  "image_id": "swords-3",
+  "imagery": [
+    "三剑穿心",
+    "雨云"
+  ],
+  "upright": {
+    "themes": [
+      "失落",
+      "分离"
+    ],
+    "meaning": "承认这件事确实让人难过。能把发生的事说清楚，就比较容易知道自己接下来需要什么。"
+  },
+  "reversed": {
+    "themes": [
+      "心绪散乱",
+      "消化伤痛"
+    ],
+    "meaning": "也许最尖锐的一刻已经过去，难受还会换一种形式回来。给它一个能讲出来的具体名字。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Three",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/three-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位承认分离带来的直接痛感，逆位对照 Bunning 的痛感减弱和韦特的混乱。"
+    }
+  },
+  "suit": "swords",
+  "rank": "3"
+}

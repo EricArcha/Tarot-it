@@ -1,0 +1,42 @@
+{
+  "id": "swords-king",
+  "name_zh": "宝剑国王",
+  "name_en": "King of Swords",
+  "arcana": "minor",
+  "image_id": "swords-king",
+  "imagery": [
+    "正面的王座",
+    "出鞘直剑",
+    "远树"
+  ],
+  "upright": {
+    "themes": [
+      "判断",
+      "责任"
+    ],
+    "meaning": "给自己的判断一个清楚标准，并愿意说出它基于什么。能回答质疑也是权威的一部分。"
+  },
+  "reversed": {
+    "themes": [
+      "滥用权威",
+      "用道理压人"
+    ],
+    "meaning": "当把结论说得太绝对，别人就没有纠正你的空间。主动检验一个可能推翻判断的事实。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · King",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/king-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位强调说明判断依据，逆位保留韦特的权力滥用并加入事实校验。"
+    }
+  },
+  "suit": "swords",
+  "rank": "king"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cups-10",
+  "name_zh": "圣杯十",
+  "name_en": "Ten of Cups",
+  "arcana": "minor",
+  "image_id": "cups-10",
+  "imagery": [
+    "彩虹十杯",
+    "举臂成人",
+    "跳舞孩子"
+  ],
+  "upright": {
+    "themes": [
+      "归属",
+      "关系安稳"
+    ],
+    "meaning": "幸福可以由几件很具体的事构成，比如互相回应、一起做事、在熟悉的地方自在地待着。"
+  },
+  "reversed": {
+    "themes": [
+      "表面和睦",
+      "分歧浮现"
+    ],
+    "meaning": "看起来完整的画面可能藏着说不出口的分歧。把自己的实际需求说成一个能商量的请求。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Ten",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/ten-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位让归属有具体内容，逆位允许外在和睦与价值分歧同时存在。"
+    }
+  },
+  "suit": "cups",
+  "rank": "10"
+}

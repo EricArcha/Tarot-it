@@ -1,0 +1,42 @@
+{
+  "id": "swords-7",
+  "name_zh": "宝剑七",
+  "name_en": "Seven of Swords",
+  "arcana": "minor",
+  "image_id": "swords-7",
+  "imagery": [
+    "抱剑离营者",
+    "留在地上的两剑",
+    "帐篷"
+  ],
+  "upright": {
+    "themes": [
+      "策略",
+      "做法有代价"
+    ],
+    "meaning": "绕开正面冲突也许有理由。先算算少说或隐瞒会留下什么后果，值不值得这样做。"
+  },
+  "reversed": {
+    "themes": [
+      "消息走漏",
+      "重听建议"
+    ],
+    "meaning": "原来的办法可能经不起更多人知道。找一个能给实话的人讨论，并修掉最不稳的部分。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Seven",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/seven-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留策略而承认其道德代价，逆位保留原典听劝及现代对隐瞒的检查。"
+    }
+  },
+  "suit": "swords",
+  "rank": "7"
+}

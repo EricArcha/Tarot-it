@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-2",
+  "name_zh": "星币二",
+  "name_en": "Two of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-2",
+  "imagery": [
+    "来回抛接两币",
+    "无限形环带",
+    "浪上船只"
+  ],
+  "upright": {
+    "themes": [
+      "调度",
+      "变化中找平衡"
+    ],
+    "meaning": "手头有不止一件要顾，同一精力要在不同地方进出。给高优先级的事情一点缓冲。"
+  },
+  "reversed": {
+    "themes": [
+      "表面轻松",
+      "安排过载"
+    ],
+    "meaning": "忙碌可能已经盖不住疲惫。可以把一项低优先级安排明确延期，看看哪一部分先恢复平衡。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Two",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/two-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用摇摆时的有序调度读图，逆位把强装轻松转为削减承诺和优先排序。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "2"
+}

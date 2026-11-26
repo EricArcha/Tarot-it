@@ -1,0 +1,42 @@
+{
+  "id": "cups-knight",
+  "name_zh": "圣杯骑士",
+  "name_en": "Knight of Cups",
+  "arcana": "minor",
+  "image_id": "cups-knight",
+  "imagery": [
+    "举杯骑士",
+    "缓行白马",
+    "河流"
+  ],
+  "upright": {
+    "themes": [
+      "邀请",
+      "主动接近"
+    ],
+    "meaning": "有些邀请值得好好回应。给感受一点空间，再看看邀请有没有能兑现的安排。"
+  },
+  "reversed": {
+    "themes": [
+      "修饰过多",
+      "承诺飘浮"
+    ],
+    "meaning": "动听的话可能遮住两边实际能做多少。可以要求一个具体的时间、做法或承诺范围。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Knight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/knight-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位让邀请可被回应，逆位用兑现条件筛掉过度修饰和不现实承诺。"
+    }
+  },
+  "suit": "cups",
+  "rank": "knight"
+}

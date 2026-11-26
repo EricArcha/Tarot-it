@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-4",
+  "name_zh": "星币四",
+  "name_en": "Four of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-4",
+  "imagery": [
+    "怀抱一币",
+    "脚踩双币",
+    "头冠上的币"
+  ],
+  "upright": {
+    "themes": [
+      "守住资源",
+      "珍惜稳定"
+    ],
+    "meaning": "有些东西值得稳稳守住。问问自己保护到什么程度已经足够，有没有一点空间可松动。"
+  },
+  "reversed": {
+    "themes": [
+      "守得太紧",
+      "流通受阻"
+    ],
+    "meaning": "因为担心失去，决定可能一拖再拖。找一个成本很小、做完能检查后果的开放动作。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Four",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/four-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留有理由的资源防护，逆位检查守得过严导致的延迟。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "4"
+}

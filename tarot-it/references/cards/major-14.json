@@ -1,0 +1,45 @@
+{
+  "id": "major-14",
+  "name_zh": "节制",
+  "name_en": "Temperance",
+  "arcana": "major",
+  "image_id": "major-14",
+  "imagery": [
+    "两杯间流水",
+    "一脚在水一脚在地",
+    "远方小径"
+  ],
+  "upright": {
+    "themes": [
+      "调和",
+      "分寸"
+    ],
+    "meaning": "像在两个杯子之间慢慢试水，先做可调整的小配比，看两边怎样才能一起运转。"
+  },
+  "reversed": {
+    "themes": [
+      "冲突的节奏",
+      "难以调和"
+    ],
+    "meaning": "手头的目标可能在争同一份时间和精力。先分开处理最互相牵扯的两件事。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · Temperance",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · Temperance",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/temperance/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用试配实现节制，逆位把传统的不和写成现实中互撞的日程与需求。"
+    }
+  },
+  "number": 14
+}

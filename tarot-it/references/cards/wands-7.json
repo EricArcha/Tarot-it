@@ -1,0 +1,41 @@
+{
+  "id": "wands-7",
+  "name_zh": "权杖七",
+  "name_en": "Seven of Wands",
+  "arcana": "minor",
+  "image_id": "wands-7",
+  "imagery": [
+    "高处守卫",
+    "下方六杖"
+  ],
+  "upright": {
+    "themes": [
+      "守住立场",
+      "竞争"
+    ],
+    "meaning": "你有一个可以站住的位置。挑清楚真正要守的东西，把注意力留给重要的挑战。"
+  },
+  "reversed": {
+    "themes": [
+      "难以招架",
+      "犹豫"
+    ],
+    "meaning": "如果每个声音都要回应，就很难保住力气。先决定哪条底线会影响实际结果。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Seven",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/seven-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留高地上的优势，逆位按现实精力挑出真正值得守的边界。"
+    }
+  },
+  "suit": "wands",
+  "rank": "7"
+}

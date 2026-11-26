@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-5",
+  "name_zh": "星币五",
+  "name_en": "Five of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-5",
+  "imagery": [
+    "风雪中两人",
+    "拐杖",
+    "亮起的五币窗"
+  ],
+  "upright": {
+    "themes": [
+      "匮乏",
+      "共处困境"
+    ],
+    "meaning": "资源紧时容易只看到冷和累。找出一个真实可能响应的求助渠道，也留意谁愿意与你同行。"
+  },
+  "reversed": {
+    "themes": [
+      "困境乱成一团",
+      "重找支撑"
+    ],
+    "meaning": "困境还在松动时，先把基本生活或工作安排稳住。向可能回应的人提一个具体请求，比独自扛着更容易开始。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Five",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/five-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位写资源不足与外部支持，逆位以重建基础秩序容纳原典混乱与现代复原。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "5"
+}

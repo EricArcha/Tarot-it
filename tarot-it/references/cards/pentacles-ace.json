@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-ace",
+  "name_zh": "星币一",
+  "name_en": "Ace of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-ace",
+  "imagery": [
+    "云中托币",
+    "花园拱门",
+    "远山"
+  ],
+  "upright": {
+    "themes": [
+      "现实机会",
+      "投入的起点"
+    ],
+    "meaning": "有一项很具体的条件已经在手上。可以把它当作起点，先看它能支持哪一个小目标。"
+  },
+  "reversed": {
+    "themes": [
+      "利弊并存",
+      "机会未稳"
+    ],
+    "meaning": "到手的资源可能仍附着条件或代价。先把成本和实际能兑现的收获列清楚。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Ace",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/ace-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位聚焦到手的现实条件，逆位先核对机会附带的成本，保留原典的利弊并存。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "ace"
+}

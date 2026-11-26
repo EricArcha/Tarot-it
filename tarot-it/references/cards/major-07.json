@@ -1,0 +1,45 @@
+{
+  "id": "major-07",
+  "name_zh": "战车",
+  "name_en": "The Chariot",
+  "arcana": "major",
+  "image_id": "major-07",
+  "imagery": [
+    "黑白斯芬克斯",
+    "战车",
+    "星纹车篷"
+  ],
+  "upright": {
+    "themes": [
+      "定向",
+      "用力"
+    ],
+    "meaning": "前面的力量朝不同方向拉。先选一件最重要的事，再调动其他条件跟上。"
+  },
+  "reversed": {
+    "themes": [
+      "争执",
+      "失去方向"
+    ],
+    "meaning": "如果越催越乱，先停止拉扯，把目标或分工重新讲清楚。这个阶段继续使劲未必有用。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Chariot",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Chariot",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/chariot/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位先定方向再调动力量，逆位察看内外力量争夺控制带来的偏航。"
+    }
+  },
+  "number": 7
+}

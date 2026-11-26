@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-queen",
+  "name_zh": "星币王后",
+  "name_en": "Queen of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-queen",
+  "imagery": [
+    "怀抱星币",
+    "绿荫",
+    "前景野兔"
+  ],
+  "upright": {
+    "themes": [
+      "实际照料",
+      "安定"
+    ],
+    "meaning": "善意能具体成一顿饭、够用的时间或一处可休息的地方。先照顾一件能让日子更稳的事。"
+  },
+  "reversed": {
+    "themes": [
+      "资源焦虑",
+      "照顾失衡"
+    ],
+    "meaning": "担心不够可能让人事事抓紧。可以问一问需要多少才足够，给自己预留一份实际照顾。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Queen",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/queen-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把照顾落到具体资源，逆位兼顾旧有不安与现代的自我照顾。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "queen"
+}

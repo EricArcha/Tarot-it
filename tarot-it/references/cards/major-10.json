@@ -1,0 +1,45 @@
+{
+  "id": "major-10",
+  "name_zh": "命运之轮",
+  "name_en": "Wheel of Fortune",
+  "arcana": "major",
+  "image_id": "major-10",
+  "imagery": [
+    "轮盘",
+    "轮上的斯芬克斯",
+    "四角有翼形象"
+  ],
+  "upright": {
+    "themes": [
+      "周期",
+      "外部变化"
+    ],
+    "meaning": "有些变化来自轮子转动，超出个人控制。留意现在刚好能移动的是哪一部分。"
+  },
+  "reversed": {
+    "themes": [
+      "超量",
+      "被变化拖着走"
+    ],
+    "meaning": "机会、信息或要求一多，也会失去节奏。先分清是事情确实太多，还是自己还想用旧办法应付变化。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · Wheel of Fortune",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · Wheel of Fortune",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/wheel-of-fortune/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用周期解释不可控变化，逆位保留韦特的超量，另纳入抗拒变化的观察。"
+    }
+  },
+  "number": 10
+}

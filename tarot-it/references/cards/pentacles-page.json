@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-page",
+  "name_zh": "星币侍从",
+  "name_en": "Page of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-page",
+  "imagery": [
+    "凝视手中星币",
+    "草地",
+    "远处耕地"
+  ],
+  "upright": {
+    "themes": [
+      "学习",
+      "把机会做实"
+    ],
+    "meaning": "看见一件值得学的事，可以从一个具体练习开始。记录做过的动作，比立一个很大的目标更容易跟进。"
+  },
+  "reversed": {
+    "themes": [
+      "分心消费",
+      "停在想法里"
+    ],
+    "meaning": "想买齐东西才开始，会把注意力放错地方。先用现有工具做出一小段真实练习。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Page",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/page-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用具体学习兑现机会，逆位合看原典的浪费倾向和现代的进展迟滞。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "page"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "major-19",
+  "name_zh": "太阳",
+  "name_en": "The Sun",
+  "arcana": "major",
+  "image_id": "major-19",
+  "imagery": [
+    "大太阳",
+    "白马骑童",
+    "向日葵"
+  ],
+  "upright": {
+    "themes": [
+      "明朗",
+      "愉快"
+    ],
+    "meaning": "有些事终于可以摊开说，也可以享受已经得到的简单成果。"
+  },
+  "reversed": {
+    "themes": [
+      "亮度下降",
+      "难以享受"
+    ],
+    "meaning": "事情也许仍有进展，期待太高或疲惫让它显得平淡。先承认一件确实在变好的事。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Sun",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Sun",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/sun/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "保留韦特逆位只是光度减弱的方向，落到实际进展与感受不同步。"
+    }
+  },
+  "number": 19
+}

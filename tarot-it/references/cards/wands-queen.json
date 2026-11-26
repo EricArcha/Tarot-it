@@ -1,0 +1,42 @@
+{
+  "id": "wands-queen",
+  "name_zh": "权杖王后",
+  "name_en": "Queen of Wands",
+  "arcana": "minor",
+  "image_id": "wands-queen",
+  "imagery": [
+    "向日葵",
+    "黑猫",
+    "带狮装饰的座椅"
+  ],
+  "upright": {
+    "themes": [
+      "热忱",
+      "带动他人"
+    ],
+    "meaning": "公开表达你对事情的兴趣，顺手让其他人也有发挥空间。你愿意出现，本身就能带来动力。"
+  },
+  "reversed": {
+    "themes": [
+      "比较",
+      "热情耗损"
+    ],
+    "meaning": "如果注意力都落到谁更被看见，原本有趣的事容易变累。选一件即便无人打分也愿意做的事。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Queen",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/queen-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位强调自主而有感染力，逆位把古典对抗转成比较引起的耗损。"
+    }
+  },
+  "suit": "wands",
+  "rank": "queen"
+}

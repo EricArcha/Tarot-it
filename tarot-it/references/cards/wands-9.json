@@ -1,0 +1,41 @@
+{
+  "id": "wands-9",
+  "name_zh": "权杖九",
+  "name_en": "Nine of Wands",
+  "arcana": "minor",
+  "image_id": "wands-9",
+  "imagery": [
+    "戴绷带的守卫",
+    "身后八杖"
+  ],
+  "upright": {
+    "themes": [
+      "戒备",
+      "坚持"
+    ],
+    "meaning": "已有的经验让你知道哪里容易出错。守住必要防线，也给自己安排能补充体力的时间。"
+  },
+  "reversed": {
+    "themes": [
+      "阻碍叠加",
+      "防线疲劳"
+    ],
+    "meaning": "如果处处像战场，继续警戒会很消耗。找出可以求援或降低警戒的那个位置。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Nine",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/nine-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把警戒当作经验，逆位让疲劳或压力成为调整防线的理由。"
+    }
+  },
+  "suit": "wands",
+  "rank": "9"
+}

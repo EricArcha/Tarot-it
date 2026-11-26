@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-9",
+  "name_zh": "星币九",
+  "name_en": "Nine of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-9",
+  "imagery": [
+    "葡萄园",
+    "停在手上的鸟",
+    "九币"
+  ],
+  "upright": {
+    "themes": [
+      "自主",
+      "享用积累"
+    ],
+    "meaning": "有些好的条件来自长期维护。可以享受已经形成的自主空间，也看见自己做了什么才得到它。"
+  },
+  "reversed": {
+    "themes": [
+      "外表稳妥",
+      "实际基础虚浮"
+    ],
+    "meaning": "看起来体面的结果需要核对成本和来源。先检查哪些资源真的归你支配，哪些依赖外部承诺。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Nine",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/nine-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位读安全与自主，逆位核对看起来体面的成果与真实支配能力。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "9"
+}

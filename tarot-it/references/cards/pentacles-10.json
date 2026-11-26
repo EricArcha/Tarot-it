@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-10",
+  "name_zh": "星币十",
+  "name_en": "Ten of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-10",
+  "imagery": [
+    "拱门下多代人物",
+    "两只狗",
+    "十币"
+  ],
+  "upright": {
+    "themes": [
+      "长期积累",
+      "家庭或群体支持"
+    ],
+    "meaning": "眼前的安全感也许来自多人和多年的积累。商量好谁在维护它、怎样交接。"
+  },
+  "reversed": {
+    "themes": [
+      "储备受牵连",
+      "家事不稳"
+    ],
+    "meaning": "依托共同资源的安排可能比想象中脆弱。可以查清谁有决定权，哪项支持需要备份。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Ten",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/ten-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位是共同长期积累，逆位落实到共享资源的依赖、交接和备用支持。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "10"
+}

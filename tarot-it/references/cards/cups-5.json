@@ -1,0 +1,42 @@
+{
+  "id": "cups-5",
+  "name_zh": "圣杯五",
+  "name_en": "Five of Cups",
+  "arcana": "minor",
+  "image_id": "cups-5",
+  "imagery": [
+    "黑斗篷",
+    "三只倒杯",
+    "两只立杯"
+  ],
+  "upright": {
+    "themes": [
+      "失落",
+      "剩下的支持"
+    ],
+    "meaning": "先承认失去的部分。等能抬头时，也看一看后面还有哪两只杯子站着。"
+  },
+  "reversed": {
+    "themes": [
+      "重新联结",
+      "支持回来"
+    ],
+    "meaning": "缓过一点后可以重新联系一个人，或者看看有谁愿意和你一起把后续处理好。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Five",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/five-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位承认损失仍有剩余，逆位关注和解、恢复联系或逐渐接住支持。"
+    }
+  },
+  "suit": "cups",
+  "rank": "5"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "major-11",
+  "name_zh": "正义",
+  "name_en": "Justice",
+  "arcana": "major",
+  "image_id": "major-11",
+  "imagery": [
+    "天平",
+    "直立的剑",
+    "双柱"
+  ],
+  "upright": {
+    "themes": [
+      "公平",
+      "承担"
+    ],
+    "meaning": "把证据、标准和后果放在同一张桌上。对自己和他人使用同样的尺度。"
+  },
+  "reversed": {
+    "themes": [
+      "偏见",
+      "过于严苛"
+    ],
+    "meaning": "先看看称重的规则是否对双方一致。也可能是一个小问题被判得太重，值得还原事实。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · Justice",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · Justice",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/justice/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位连接尺度与后果，逆位检验偏见和严苛，也允许核查谁在避开责任。"
+    }
+  },
+  "number": 11
+}

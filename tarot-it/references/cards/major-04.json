@@ -1,0 +1,45 @@
+{
+  "id": "major-04",
+  "name_zh": "皇帝",
+  "name_en": "The Emperor",
+  "arcana": "major",
+  "image_id": "major-04",
+  "imagery": [
+    "公羊石座",
+    "权杖",
+    "干燥山地"
+  ],
+  "upright": {
+    "themes": [
+      "结构",
+      "保护"
+    ],
+    "meaning": "把职责、权限和底线说清楚，大家才知道这座椅子能护住什么。"
+  },
+  "reversed": {
+    "themes": [
+      "僵硬",
+      "规则不合身"
+    ],
+    "meaning": "规则可能拦住了原本想保护的人。看看是执行需要更稳，还是规则本身需要调整。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Emperor",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Emperor",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/emperor/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位强调结构的保护用途，逆位强调规则过硬或缺少合适的约束。"
+    }
+  },
+  "number": 4
+}

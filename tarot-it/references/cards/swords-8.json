@@ -1,0 +1,42 @@
+{
+  "id": "swords-8",
+  "name_zh": "宝剑八",
+  "name_en": "Eight of Swords",
+  "arcana": "minor",
+  "image_id": "swords-8",
+  "imagery": [
+    "蒙眼被缚者",
+    "围身的剑",
+    "远处高地"
+  ],
+  "upright": {
+    "themes": [
+      "受限",
+      "视线变窄"
+    ],
+    "meaning": "眼前的限制可能真实存在。试着区分哪一条边界必须尊重，哪条只是因为还没看见出口。"
+  },
+  "reversed": {
+    "themes": [
+      "寻找缺口",
+      "变化引发不安"
+    ],
+    "meaning": "旧限制开始移动时也会紧张。先验证一条新路线有没有真实支撑，再慢慢增加行动。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Eight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/eight-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位区分真实条件和受限视角，逆位让寻找缺口和面对变化的不安同时存在。"
+    }
+  },
+  "suit": "swords",
+  "rank": "8"
+}

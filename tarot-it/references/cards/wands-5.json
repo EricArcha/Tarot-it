@@ -1,0 +1,41 @@
+{
+  "id": "wands-5",
+  "name_zh": "权杖五",
+  "name_en": "Five of Wands",
+  "arcana": "minor",
+  "image_id": "wands-5",
+  "imagery": [
+    "五人杂举木杖",
+    "交错方向"
+  ],
+  "upright": {
+    "themes": [
+      "竞争",
+      "摩擦"
+    ],
+    "meaning": "成员可能还在各使各的力。给讨论一个共同规则，才能把竞争用来试出更好的办法。"
+  },
+  "reversed": {
+    "themes": [
+      "争执变质",
+      "规则不清"
+    ],
+    "meaning": "演练可能已经被当真，或者有人在绕开规则。先明确争论哪件事、按什么方式处理。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Five",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/five-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位将摩擦用于试出办法，逆位提醒冲突可移入内部或因规则不清变严重。"
+    }
+  },
+  "suit": "wands",
+  "rank": "5"
+}

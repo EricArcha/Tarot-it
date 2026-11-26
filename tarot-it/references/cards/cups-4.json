@@ -1,0 +1,42 @@
+{
+  "id": "cups-4",
+  "name_zh": "圣杯四",
+  "name_en": "Four of Cups",
+  "arcana": "minor",
+  "image_id": "cups-4",
+  "imagery": [
+    "树下抱臂的人",
+    "三杯",
+    "云手递杯"
+  ],
+  "upright": {
+    "themes": [
+      "倦怠",
+      "暂不接受"
+    ],
+    "meaning": "兴趣提不起来时，很难看出新的选择是否适合你。先允许自己歇一歇，再看那只递来的杯子。"
+  },
+  "reversed": {
+    "themes": [
+      "重新留意",
+      "新的来往"
+    ],
+    "meaning": "你可能重新注意到原本忽略的选择，也可能需要先退一小步。给自己一个可以随时停下的小尝试。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Four",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/four-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位是倦怠时的重新衡量，逆位保留韦特的新来往，也容许退开后重看。"
+    }
+  },
+  "suit": "cups",
+  "rank": "4"
+}

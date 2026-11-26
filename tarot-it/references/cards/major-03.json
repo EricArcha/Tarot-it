@@ -1,0 +1,45 @@
+{
+  "id": "major-03",
+  "name_zh": "皇后",
+  "name_en": "The Empress",
+  "arcana": "major",
+  "image_id": "major-03",
+  "imagery": [
+    "麦田",
+    "森林和水流",
+    "金星盾牌"
+  ],
+  "upright": {
+    "themes": [
+      "滋养",
+      "创造"
+    ],
+    "meaning": "像照料一块田一样，把时间和资源放在想让它长好的事情上。结果需要生长的周期。"
+  },
+  "reversed": {
+    "themes": [
+      "失去节奏",
+      "照顾过量"
+    ],
+    "meaning": "如果事事都靠你多给一点，照顾本身会变成负担。也可能是一个绕了半天的问题终于能被说清。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Empress",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Empress",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/empress/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位以滋养支撑创造，逆位把照料失衡、创作阻滞和韦特的事情浮出水面区分开。"
+    }
+  },
+  "number": 3
+}

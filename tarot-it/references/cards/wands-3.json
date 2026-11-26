@@ -1,0 +1,42 @@
+{
+  "id": "wands-3",
+  "name_zh": "权杖三",
+  "name_en": "Three of Wands",
+  "arcana": "minor",
+  "image_id": "wands-3",
+  "imagery": [
+    "高地背影",
+    "远方船只",
+    "三根杖"
+  ],
+  "upright": {
+    "themes": [
+      "扩展",
+      "合作"
+    ],
+    "meaning": "事情已经启航。现在可以观察它走到哪了，也可以看看谁能补足下一段的能力。"
+  },
+  "reversed": {
+    "themes": [
+      "困难松动",
+      "调整出发点"
+    ],
+    "meaning": "部分阻碍可能正在退去，新延误也可能刚出现。用一个可核对的进度判断哪条路真能走，再加投入。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Three",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/three-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位对齐扩展和合作，逆位保留韦特的阻碍缓解，也允许校对新延误。"
+    }
+  },
+  "suit": "wands",
+  "rank": "3"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "major-08",
+  "name_zh": "力量",
+  "name_en": "Strength",
+  "arcana": "major",
+  "image_id": "major-08",
+  "imagery": [
+    "抚狮的人",
+    "花环",
+    "无限符号"
+  ],
+  "upright": {
+    "themes": [
+      "勇气",
+      "温和掌控"
+    ],
+    "meaning": "力量可以表现为稳住自己，同时给冲动留一点余地。温和地说清界线也算行动。"
+  },
+  "reversed": {
+    "themes": [
+      "强撑",
+      "滥用力气"
+    ],
+    "meaning": "压得太紧容易僵住，也可能是自己已经累了。先分清哪些事值得坚持，哪些需要换个力度。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · Strength / Fortitude",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · Strength / Fortitude",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/strength/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位落在有分寸的勇气，逆位以怀疑和耗损补足韦特的用力过度。"
+    }
+  },
+  "number": 8
+}

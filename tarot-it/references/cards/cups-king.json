@@ -1,0 +1,42 @@
+{
+  "id": "cups-king",
+  "name_zh": "圣杯国王",
+  "name_en": "King of Cups",
+  "arcana": "minor",
+  "image_id": "cups-king",
+  "imagery": [
+    "海中座椅",
+    "船与跃鱼",
+    "杯和权杖"
+  ],
+  "upright": {
+    "themes": [
+      "稳定",
+      "负责任"
+    ],
+    "meaning": "周围起伏时，可以让情绪被听见，再在更平静的时候为行动负责。"
+  },
+  "reversed": {
+    "themes": [
+      "情绪被用来操控",
+      "口行不一"
+    ],
+    "meaning": "听起来体贴也需要行动相符。留意对方和自己在不顺利时如何处理情绪与承诺。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · King",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/king-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留负责任的感情表达，逆位检验关怀语言是否被用来转移责任。"
+    }
+  },
+  "suit": "cups",
+  "rank": "king"
+}

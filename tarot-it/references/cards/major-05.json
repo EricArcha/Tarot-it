@@ -1,0 +1,45 @@
+{
+  "id": "major-05",
+  "name_zh": "教皇",
+  "name_en": "The Hierophant",
+  "arcana": "major",
+  "image_id": "major-05",
+  "imagery": [
+    "两位听者",
+    "交叉钥匙",
+    "举手祝福"
+  ],
+  "upright": {
+    "themes": [
+      "传统",
+      "学习"
+    ],
+    "meaning": "遇到陌生领域，可以先借一套已有的做法或找熟悉这条路的人请教。"
+  },
+  "reversed": {
+    "themes": [
+      "从众",
+      "过于迁就"
+    ],
+    "meaning": "别人都这么做，不等于适合眼前的情况。先弄清你接受的理由，再决定哪些惯例可以放下。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Hierophant",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Hierophant",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/hierophant/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位承认传承提供学习工具，逆位把过分迁就导向检验现成规则。"
+    }
+  },
+  "number": 5
+}

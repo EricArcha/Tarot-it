@@ -1,0 +1,42 @@
+{
+  "id": "wands-2",
+  "name_zh": "权杖二",
+  "name_en": "Two of Wands",
+  "arcana": "minor",
+  "image_id": "wands-2",
+  "imagery": [
+    "手中小地球",
+    "城墙",
+    "两根杖"
+  ],
+  "upright": {
+    "themes": [
+      "远望",
+      "选择空间"
+    ],
+    "meaning": "已有一块站得住的地方，也能看到更远的路。把留在原地的收益和走出去的代价写具体。"
+  },
+  "reversed": {
+    "themes": [
+      "意外",
+      "不安"
+    ],
+    "meaning": "预想之外的变量让计划不那么稳。先做能更新判断的小调查，再承诺下一步。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Two",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/two-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位结合现有条件和向外计划，逆位保留古典意外并复核对未知的准备。"
+    }
+  },
+  "suit": "wands",
+  "rank": "2"
+}

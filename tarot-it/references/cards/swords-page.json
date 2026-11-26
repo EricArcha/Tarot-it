@@ -1,0 +1,42 @@
+{
+  "id": "swords-page",
+  "name_zh": "宝剑侍从",
+  "name_en": "Page of Swords",
+  "arcana": "minor",
+  "image_id": "swords-page",
+  "imagery": [
+    "回头的年轻人",
+    "高举的剑",
+    "风云"
+  ],
+  "upright": {
+    "themes": [
+      "查问",
+      "警觉"
+    ],
+    "meaning": "保持好奇，拿具体问题检查你听到的消息。让进一步了解有清楚的边界。"
+  },
+  "reversed": {
+    "themes": [
+      "轻率传播",
+      "准备不足"
+    ],
+    "meaning": "消息未核实就容易越说越真。先确认原信息和自己的准备程度，再决定要不要说出去。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Page",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/page-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位兼顾观察与好奇，逆位把未准备好落在可核实的传播和行动上。"
+    }
+  },
+  "suit": "swords",
+  "rank": "page"
+}

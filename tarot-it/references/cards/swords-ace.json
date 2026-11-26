@@ -1,0 +1,42 @@
+{
+  "id": "swords-ace",
+  "name_zh": "宝剑一",
+  "name_en": "Ace of Swords",
+  "arcana": "minor",
+  "image_id": "swords-ace",
+  "imagery": [
+    "云中持剑的手",
+    "冠冕",
+    "远山"
+  ],
+  "upright": {
+    "themes": [
+      "清晰",
+      "有力决定"
+    ],
+    "meaning": "这件事需要一句讲得清的判断。用它来切开纠缠的信息，也留意这个决定会影响哪些人。"
+  },
+  "reversed": {
+    "themes": [
+      "锋芒过度",
+      "判断失准"
+    ],
+    "meaning": "用力说服不一定让事情更清楚。先检查你依靠的事实，再决定是否值得把话说这么重。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Ace",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/ace-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位给判断一个清楚句子，逆位让锋芒过度和判断含混落回事实核对。"
+    }
+  },
+  "suit": "swords",
+  "rank": "ace"
+}

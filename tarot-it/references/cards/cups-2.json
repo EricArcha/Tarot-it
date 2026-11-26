@@ -1,0 +1,46 @@
+{
+  "id": "cups-2",
+  "name_zh": "圣杯二",
+  "name_en": "Two of Cups",
+  "arcana": "minor",
+  "image_id": "cups-2",
+  "imagery": [
+    "交换杯子的两人",
+    "双蛇杖",
+    "翼狮"
+  ],
+  "upright": {
+    "themes": [
+      "互相回应",
+      "联结"
+    ],
+    "meaning": "这份关系的重点在双方都参与。看看最近有什么往来能让两个人都感到被听见。"
+  },
+  "reversed": {
+    "themes": [
+      "热度失衡",
+      "重新确认"
+    ],
+    "meaning": "原典补读仍有热情。现实中可留意这种热情是否被等量回应，并把彼此的期待说出来。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Two",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      },
+      {
+        "section": "Part III §4 · Cups · Two（逆位补充）",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/two-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位用互相参与落地，逆位同时保留韦特的热情与现代的互惠失衡。"
+    }
+  },
+  "suit": "cups",
+  "rank": "2"
+}

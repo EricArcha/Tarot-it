@@ -1,0 +1,41 @@
+{
+  "id": "cups-9",
+  "name_zh": "圣杯九",
+  "name_en": "Nine of Cups",
+  "arcana": "minor",
+  "image_id": "cups-9",
+  "imagery": [
+    "坐着的人",
+    "背后陈列的九杯"
+  ],
+  "upright": {
+    "themes": [
+      "满足",
+      "结果可享"
+    ],
+    "meaning": "停一下，细看已经得到的东西中，哪一点让你真心满足。"
+  },
+  "reversed": {
+    "themes": [
+      "满足的缺口",
+      "诚实核对"
+    ],
+    "meaning": "条件齐了也可能没有想象中开心。诚实问问自己现在更需要什么，让愿望变得具体。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Nine",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/nine-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位确认可享用的成果，逆位借韦特所说的瑕疵检验亲身满足感。"
+    }
+  },
+  "suit": "cups",
+  "rank": "9"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "major-13",
+  "name_zh": "死神",
+  "name_en": "Death",
+  "arcana": "major",
+  "image_id": "major-13",
+  "imagery": [
+    "白马",
+    "黑旗上的白花",
+    "远方日光"
+  ],
+  "upright": {
+    "themes": [
+      "结束",
+      "过渡"
+    ],
+    "meaning": "某种旧安排已经走到尽头。先承认这一段结束，再决定哪些事值得带到下一阶段。"
+  },
+  "reversed": {
+    "themes": [
+      "停滞",
+      "难以放手"
+    ],
+    "meaning": "旧形式可能已经停止运作，习惯还在支撑它。可以先放下一个不再需要遵守的旧步骤。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · Death",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · Death",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/death/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位是旧安排结束并过渡，逆位处理舍不得改变以及改变先在心里发生。"
+    }
+  },
+  "number": 13
+}

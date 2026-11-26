@@ -1,0 +1,45 @@
+{
+  "id": "major-16",
+  "name_zh": "高塔",
+  "name_en": "The Tower",
+  "arcana": "major",
+  "image_id": "major-16",
+  "imagery": [
+    "闪电",
+    "脱落王冠",
+    "坠落人物"
+  ],
+  "upright": {
+    "themes": [
+      "突变",
+      "旧结构松动"
+    ],
+    "meaning": "一个原本当成理所当然的前提可能需要重查。先固定手里还能用的部分，再做下一步。"
+  },
+  "reversed": {
+    "themes": [
+      "危机内收",
+      "压力累积"
+    ],
+    "meaning": "外表也许暂时维持住了，压力却没有消失。把能小修的裂缝和需要停下重做的问题分清楚。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Tower",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Tower",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/tower/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位复查突变后的旧前提，逆位保留程度较低的冲击和对变化的回避。"
+    }
+  },
+  "number": 16
+}

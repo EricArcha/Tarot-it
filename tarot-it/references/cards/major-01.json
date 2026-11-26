@@ -1,0 +1,45 @@
+{
+  "id": "major-01",
+  "name_zh": "魔术师",
+  "name_en": "The Magician",
+  "arcana": "major",
+  "image_id": "major-01",
+  "imagery": [
+    "举杖与指地的手",
+    "桌上四种器物",
+    "头顶无限符号"
+  ],
+  "upright": {
+    "themes": [
+      "技能",
+      "调动资源"
+    ],
+    "meaning": "桌上已经有几样工具。挑一件顺手的，把手里的条件变成一个能看见的行动。"
+  },
+  "reversed": {
+    "themes": [
+      "手段失衡",
+      "表演"
+    ],
+    "meaning": "技巧也可能被用来撑场面或遮住问题。问问自己有没有用承诺代替具体做法。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Magician",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Magician",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/magician/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位锚在把工具变成行动，逆位兼顾技巧被滥用和能力闲置。"
+    }
+  },
+  "number": 1
+}

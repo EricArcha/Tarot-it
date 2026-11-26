@@ -1,0 +1,42 @@
+{
+  "id": "cups-page",
+  "name_zh": "圣杯侍从",
+  "name_en": "Page of Cups",
+  "arcana": "minor",
+  "image_id": "cups-page",
+  "imagery": [
+    "杯中探头的鱼",
+    "海水",
+    "年轻人"
+  ],
+  "upright": {
+    "themes": [
+      "好奇",
+      "柔软的讯息"
+    ],
+    "meaning": "也许有一个意外细节让你重新注意到某种感受。可以先探索它，不急着赋予特别重的意义。"
+  },
+  "reversed": {
+    "themes": [
+      "受幻想吸引",
+      "错读暗示"
+    ],
+    "meaning": "自己希望发生的事容易混进解读。回到实际的话和行动，看看哪些是真的出现过。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Page",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/page-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把意外信号作为好奇的起点，逆位提醒想象与真实表达需要查对。"
+    }
+  },
+  "suit": "cups",
+  "rank": "page"
+}

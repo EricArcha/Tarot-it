@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-king",
+  "name_zh": "星币国王",
+  "name_en": "King of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-king",
+  "imagery": [
+    "葡萄藤衣袍",
+    "有牛头的王座",
+    "星币与权杖"
+  ],
+  "upright": {
+    "themes": [
+      "经营",
+      "维持成果"
+    ],
+    "meaning": "把有效做法稳定下来，逐步创造别人也能使用的资源。好的经营允许现实条件决定节奏。"
+  },
+  "reversed": {
+    "themes": [
+      "唯结果论",
+      "管理失当"
+    ],
+    "meaning": "当所有价值都只按产出计量，容易忽略维护它的人和条件。重新核对哪些指标值得继续信任。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · King",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/king-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保持可持续经营，逆位将过度重视产出落到人和资源安排上。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "king"
+}

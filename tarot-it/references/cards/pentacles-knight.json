@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-knight",
+  "name_zh": "星币骑士",
+  "name_en": "Knight of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-knight",
+  "imagery": [
+    "停住的深色马",
+    "手持星币",
+    "田垄"
+  ],
+  "upright": {
+    "themes": [
+      "负责",
+      "稳定推进"
+    ],
+    "meaning": "继续做那些朴素而重复的小动作。给它们一个可持续的节奏，让结果能慢慢积累。"
+  },
+  "reversed": {
+    "themes": [
+      "停滞",
+      "例行变成惰性"
+    ],
+    "meaning": "流程可以保证稳定，有时也变成不复查的理由。挑一个动作看看是否仍有实际价值。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Knight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/knight-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位确立可靠的重复，逆位检查重复是否仍有目标和反馈。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "knight"
+}

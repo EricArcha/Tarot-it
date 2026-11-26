@@ -1,0 +1,42 @@
+{
+  "id": "wands-4",
+  "name_zh": "权杖四",
+  "name_en": "Four of Wands",
+  "arcana": "minor",
+  "image_id": "wands-4",
+  "imagery": [
+    "四杖挂花",
+    "举花者",
+    "桥与宅邸"
+  ],
+  "upright": {
+    "themes": [
+      "落脚",
+      "庆祝"
+    ],
+    "meaning": "给已经完成的阶段一个小小的承认。也可以把让人安心的空间分享给与你一起努力的人。"
+  },
+  "reversed": {
+    "themes": [
+      "喜事仍在",
+      "形式简化"
+    ],
+    "meaning": "韦特认为这张逆位仍带和谐。庆祝可以小一点、更私下，找出这件事真正值得记一笔的部分。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Four",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/four-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位确认阶段成果，逆位采用韦特仍和谐的读法，现代校读补入更私下的庆祝。"
+    }
+  },
+  "suit": "wands",
+  "rank": "4"
+}

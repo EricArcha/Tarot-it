@@ -1,0 +1,41 @@
+{
+  "id": "wands-10",
+  "name_zh": "权杖十",
+  "name_en": "Ten of Wands",
+  "arcana": "minor",
+  "image_id": "wands-10",
+  "imagery": [
+    "抱十杖的人",
+    "近处城镇"
+  ],
+  "upright": {
+    "themes": [
+      "负重",
+      "成功的代价"
+    ],
+    "meaning": "目标就在前面，所有东西同时扛着也会挡住去路。可以分一件事出去，或放慢到能坚持的速度。"
+  },
+  "reversed": {
+    "themes": [
+      "职责缠结",
+      "卸下负担"
+    ],
+    "meaning": "阻力可能来自任务之间相互牵连。先把真正归你负责的和顺手揽来的分开。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Ten",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/ten-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位是进展连带负荷，逆位从缠结的职责转到分工或卸载。"
+    }
+  },
+  "suit": "wands",
+  "rank": "10"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "wands-6",
+  "name_zh": "权杖六",
+  "name_en": "Six of Wands",
+  "arcana": "minor",
+  "image_id": "wands-6",
+  "imagery": [
+    "戴月桂的骑者",
+    "杖上花环",
+    "随行人群"
+  ],
+  "upright": {
+    "themes": [
+      "认可",
+      "阶段结果"
+    ],
+    "meaning": "已经有一段努力被人看见。接受认可，也把实际起作用的做法记下来。"
+  },
+  "reversed": {
+    "themes": [
+      "担心失去认可",
+      "成绩未兑现"
+    ],
+    "meaning": "掌声迟到容易让人全盘怀疑自己。分别核对结果和反馈，它们有时会在不同的时间到达。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Six",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/six-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位聚焦已被看见的进展，逆位分开私人结果、公开认可和对失落的担忧。"
+    }
+  },
+  "suit": "wands",
+  "rank": "6"
+}

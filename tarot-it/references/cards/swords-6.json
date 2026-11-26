@@ -1,0 +1,42 @@
+{
+  "id": "swords-6",
+  "name_zh": "宝剑六",
+  "name_en": "Six of Swords",
+  "arcana": "minor",
+  "image_id": "swords-6",
+  "imagery": [
+    "渡船",
+    "撑篙者",
+    "船上六剑"
+  ],
+  "upright": {
+    "themes": [
+      "过渡",
+      "找可行路线"
+    ],
+    "meaning": "人已经在船上，原来的行李还带着。选一条能一步步离开混乱的路线，允许过渡期比较慢。"
+  },
+  "reversed": {
+    "themes": [
+      "说出实情",
+      "迁移受牵绊"
+    ],
+    "meaning": "也许要先说明一件被藏着的事，或承认仍想回头。弄清哪件行李最影响你继续走。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Six",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/six-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留原典路线与渡船，逆位用说出实情回应现代的旧包袱与过渡受阻。"
+    }
+  },
+  "suit": "swords",
+  "rank": "6"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "wands-king",
+  "name_zh": "权杖国王",
+  "name_en": "King of Wands",
+  "arcana": "minor",
+  "image_id": "wands-king",
+  "imagery": [
+    "发芽长杖",
+    "王座狮纹",
+    "脚边蝾螈"
+  ],
+  "upright": {
+    "themes": [
+      "带头",
+      "可信"
+    ],
+    "meaning": "带头意味着给人方向，也意味着兑现你说过的事。把愿景说成团队能开始做的一步。"
+  },
+  "reversed": {
+    "themes": [
+      "严厉",
+      "要求过高"
+    ],
+    "meaning": "高标准可能有用，得让人知道理由和余地。看看你的要求是在引导，还是让别人只剩服从。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · King",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/king-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把远见和诚信合在带头行为中，逆位辨别带标准与用标准压人的差别。"
+    }
+  },
+  "suit": "wands",
+  "rank": "king"
+}

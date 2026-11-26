@@ -1,0 +1,42 @@
+{
+  "id": "pentacles-8",
+  "name_zh": "星币八",
+  "name_en": "Eight of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-8",
+  "imagery": [
+    "工作台",
+    "雕刻动作",
+    "柱上星币"
+  ],
+  "upright": {
+    "themes": [
+      "练习",
+      "手艺"
+    ],
+    "meaning": "把力气用在真正能练进步的那一处。给重复加一点反馈，进展就更容易被看见。"
+  },
+  "reversed": {
+    "themes": [
+      "忙而无长进",
+      "目的偏移"
+    ],
+    "meaning": "也许手很熟，做法却没有再更新。确认你在练的是需要的能力，还是只是在做最熟的事情。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Eight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/eight-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位将工艺与反馈相连，逆位记下用错方向或熟练停在原地的区别。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "8"
+}

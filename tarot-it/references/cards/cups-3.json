@@ -1,0 +1,41 @@
+{
+  "id": "cups-3",
+  "name_zh": "圣杯三",
+  "name_en": "Three of Cups",
+  "arcana": "minor",
+  "image_id": "cups-3",
+  "imagery": [
+    "三人举杯",
+    "脚下果实"
+  ],
+  "upright": {
+    "themes": [
+      "庆祝",
+      "社群支持"
+    ],
+    "meaning": "让别人分担生活的重量，也给一起完成的事情一个庆祝机会。"
+  },
+  "reversed": {
+    "themes": [
+      "享乐过量",
+      "聚会结束"
+    ],
+    "meaning": "开心值得保留，过量会让它变成负担。也可能是很热闹的一段结束后需要回到自己的节奏。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Three",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/three-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位确认小团体的支持，逆位给享乐过量或想独处的需要找实际后果。"
+    }
+  },
+  "suit": "cups",
+  "rank": "3"
+}

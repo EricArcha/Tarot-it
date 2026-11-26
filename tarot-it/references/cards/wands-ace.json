@@ -1,0 +1,42 @@
+{
+  "id": "wands-ace",
+  "name_zh": "权杖一",
+  "name_en": "Ace of Wands",
+  "arcana": "minor",
+  "image_id": "wands-ace",
+  "imagery": [
+    "云中伸手",
+    "发芽木杖",
+    "远处城堡"
+  ],
+  "upright": {
+    "themes": [
+      "点火",
+      "起步"
+    ],
+    "meaning": "灵感本身未必能维持太久。趁还有兴趣，把它落成一个当天能试的小动作。"
+  },
+  "reversed": {
+    "themes": [
+      "火苗暗淡",
+      "动力受阻"
+    ],
+    "meaning": "可能还没有合适时间、资源或动机。缩小起步的动作，弄清是哪一种条件在拖住它。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Wands · Ace",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/ace-of-wands/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位保留起始动力，逆位把韦特衰退写成可诊断的启动条件，而非预告失败。"
+    }
+  },
+  "suit": "wands",
+  "rank": "ace"
+}

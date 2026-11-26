@@ -1,0 +1,45 @@
+{
+  "id": "major-09",
+  "name_zh": "隐士",
+  "name_en": "The Hermit",
+  "arcana": "major",
+  "image_id": "major-09",
+  "imagery": [
+    "提灯",
+    "手杖",
+    "山顶"
+  ],
+  "upright": {
+    "themes": [
+      "审慎",
+      "独处"
+    ],
+    "meaning": "手里的灯只能照亮几步。短暂退一步梳理判断，再带着更清楚的问题回到现实。"
+  },
+  "reversed": {
+    "themes": [
+      "过度防备",
+      "封闭"
+    ],
+    "meaning": "慎重可能拖成躲避。把一个具体困惑交给可信的人讨论，看看不确定性能否缩小。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part II §2 · The Hermit",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_2"
+      },
+      {
+        "section": "Part III §3 · The Hermit",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/major-arcana/hermit/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位把短暂独处用于判断，逆位区分失去交流和有意留白。"
+    }
+  },
+  "number": 9
+}

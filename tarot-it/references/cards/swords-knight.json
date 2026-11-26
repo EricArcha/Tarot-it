@@ -1,0 +1,42 @@
+{
+  "id": "swords-knight",
+  "name_zh": "宝剑骑士",
+  "name_en": "Knight of Swords",
+  "arcana": "minor",
+  "image_id": "swords-knight",
+  "imagery": [
+    "举剑疾驰",
+    "马身向前",
+    "弯曲的树"
+  ],
+  "upright": {
+    "themes": [
+      "果断",
+      "冲刺"
+    ],
+    "meaning": "当问题已说清，直接行动可以减少拖延。出手前给自己设一条停下来核对的线。"
+  },
+  "reversed": {
+    "themes": [
+      "鲁莽",
+      "冲撞"
+    ],
+    "meaning": "跑得快也可能撞上漏看的条件。先花一点时间确认影响范围，特别是哪些人会被卷进来。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Swords · Knight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-swords/knight-of-swords/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位写出直接推进的用途，逆位复查快动作牵连的人和条件。"
+    }
+  },
+  "suit": "swords",
+  "rank": "knight"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pentacles-7",
+  "name_zh": "星币七",
+  "name_en": "Seven of Pentacles",
+  "arcana": "minor",
+  "image_id": "pentacles-7",
+  "imagery": [
+    "倚工具的人",
+    "缀币的枝叶"
+  ],
+  "upright": {
+    "themes": [
+      "等待回报",
+      "复盘投入"
+    ],
+    "meaning": "辛苦已经投进去，现在适合停一停看实际长出来的东西。再决定是继续养，还是换种方式。"
+  },
+  "reversed": {
+    "themes": [
+      "担心投入不值",
+      "回报难估"
+    ],
+    "meaning": "继续投入也可能只是怕过去的力气白花。把已经投入的与从今天开始需要的分开算。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Pentacles · Seven",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-pentacles/seven-of-pentacles/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位回看长期投入实际长出了什么，逆位保留韦特的资源担心，检查是否继续投入。"
+    }
+  },
+  "suit": "pentacles",
+  "rank": "7"
+}

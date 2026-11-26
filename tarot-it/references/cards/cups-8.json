@@ -1,0 +1,42 @@
+{
+  "id": "cups-8",
+  "name_zh": "圣杯八",
+  "name_en": "Eight of Cups",
+  "arcana": "minor",
+  "image_id": "cups-8",
+  "imagery": [
+    "离去的人",
+    "八只杯",
+    "山路与月"
+  ],
+  "upright": {
+    "themes": [
+      "离开",
+      "重要性变化"
+    ],
+    "meaning": "看似还在的东西也可能已变得空。问问自己继续停留能得到什么，是否还值得。"
+  },
+  "reversed": {
+    "themes": [
+      "另见喜悦",
+      "去留拉扯"
+    ],
+    "meaning": "韦特逆位保留快乐面向。离开的心情可能在变化，先找出留下与离开分别能让你恢复什么。"
+  },
+  "sources": {
+    "waite": [
+      {
+        "section": "Part III §2 · Cups · Eight",
+        "url": "https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot/Part_3"
+      }
+    ],
+    "modern_review": {
+      "status": "reviewed",
+      "card_url": "https://biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-cups/eight-of-cups/",
+      "method_url": "https://www.learntarot.com/less17.htm",
+      "editorial_note": "正位检查失去意义后的去留，逆位保存韦特的喜悦读法，并展示现代的去留拉扯。"
+    }
+  },
+  "suit": "cups",
+  "rank": "8"
+}
