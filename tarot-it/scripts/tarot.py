@@ -28,7 +28,10 @@ REFERENCES = ROOT / 'references'
 TTL = 24 * 60 * 60
 SUITS = ('wands', 'cups', 'swords', 'pentacles')
 RANKS = ('ace', *map(str, range(2, 11)), 'page', 'knight', 'queen', 'king')
-CARD_IDS = {f'major-{n:02}' for n in range(22)} | {f'{suit}-{rank}' for suit in SUITS for rank in RANKS}
+MAJOR_IDS = {f'major-{n:02}' for n in range(22)}
+MINOR_IDS = {f'{suit}-{rank}' for suit in SUITS for rank in RANKS}
+CARD_IDS = MAJOR_IDS | MINOR_IDS
+DECK_IDS = {'full': CARD_IDS, 'major': MAJOR_IDS, 'minor': MINOR_IDS}
 IMAGE_KINDS = ('original', 'upright', 'reversed')
 
 
@@ -169,8 +172,8 @@ def transaction(state):
             yield db
 
 
-def deck_order(rng, upright_only):
-    cards = sorted(CARD_IDS)
+def deck_order(rng, upright_only, deck):
+    cards = sorted(DECK_IDS[deck])
     rng.shuffle(cards)
     return [(key, 'upright' if upright_only or not rng.getrandbits(1) else 'reversed') for key in cards]
 
@@ -180,7 +183,7 @@ def parameters_for(args, spreads):
         raise TarotError('spread', '请从支持的八套牌阵中选择。')
     if args.year is not None and (args.spread != 'annual' or not 1 <= args.year <= 9999):
         raise TarotError('year', '只在年度牌阵使用 1 至 9999 的年份。')
-    return {'spread': args.spread, 'upright_only': args.upright_only, 'year': args.year}
+    return {'spread': args.spread, 'upright_only': args.upright_only, 'year': args.year, 'deck': args.deck}
 
 
 def spread_positions(parameters, spreads, created):
@@ -194,10 +197,12 @@ def spread_positions(parameters, spreads, created):
 
 def snapshot(row, spreads, cards):
     parameters = json.loads(row['parameters'])
+    deck = parameters.get('deck', 'full')
     names = json.loads(row['positions'])
     response = {'run_id': row['id'], 'status': 'prepared', 'asset_version': row['version'],
                 'spread': parameters['spread'], 'spread_name': spreads[parameters['spread']]['name'],
-                'upright_only': parameters['upright_only'], 'count': len(names), 'positions': names}
+                'deck': deck, 'deck_size': len(DECK_IDS[deck]), 'upright_only': parameters['upright_only'],
+                'count': len(names), 'positions': names}
     if row['result'] is not None:
         response['status'] = 'revealed'
         response['cards'] = [dict(position=i, label=name, id=key, orientation=direction,
@@ -229,10 +234,12 @@ def start(db, args, manifest, spreads, cards, version):
         db.execute('INSERT INTO rounds (id,scope,request,version,created,parameters,positions,deck) VALUES (?,?,?,?,?,?,?,?)',
                    (str(uuid4()), args.scope, args.request, version, now, json.dumps(parameters),
                     json.dumps(spread_positions(parameters, spreads, now)),
-                    json.dumps(deck_order(SystemRandom(), args.upright_only))))
+                    json.dumps(deck_order(SystemRandom(), args.upright_only, args.deck))))
         row = db.execute('SELECT * FROM rounds WHERE scope=? AND request=?', (args.scope, args.request)).fetchone()
-    if json.loads(row['parameters']) != parameters:
-        raise TarotError('request_conflict', '这次请求已绑定其他牌阵或方向设置。')
+    saved_parameters = json.loads(row['parameters'])
+    saved_parameters.setdefault('deck', 'full')
+    if saved_parameters != parameters:
+        raise TarotError('request_conflict', '这次请求已绑定其他牌阵、牌组或方向设置。')
     if row['version'] != version:
         raise TarotError('asset_version', '本轮素材版本已变化。')
     response = snapshot(row, spreads, cards)
@@ -245,13 +252,14 @@ def select(db, args, row, response):
         raise TarotError('already_revealed', '这轮已翻牌，可重新展示同一结果。')
     if args.cut is None and args.positions is None:
         raise TarotError('selection', '请提供切点或所选位置。')
-    if args.cut is not None and not 1 <= args.cut < 78:
-        raise TarotError('cut', '切点必须在 1 至 77 之间。')
+    deck_size = response['deck_size']
+    if args.cut is not None and not 1 <= args.cut < deck_size:
+        raise TarotError('cut', f'切点必须在 1 至 {deck_size - 1} 之间。')
     if args.positions is not None:
         if len(set(args.positions)) != response['count'] or len(args.positions) != response['count']:
             raise TarotError('positions', f'请选择 {response["count"]} 个各不相同的位置。')
-        if any(not 1 <= position <= 78 for position in args.positions):
-            raise TarotError('positions', '所选位置须在 1 至 78 之间。')
+        if any(not 1 <= position <= deck_size for position in args.positions):
+            raise TarotError('positions', f'所选位置须在 1 至 {deck_size} 之间。')
     cut = row['cut'] if args.cut is None else args.cut
     selected = row['selected'] if args.positions is None else json.dumps(args.positions)
     db.execute('UPDATE rounds SET cut=?, selected=? WHERE id=?', (cut, selected, row['id']))
@@ -343,6 +351,7 @@ def parse_args():
     new.add_argument('--scope', required=True, type=identifier)
     new.add_argument('--request', required=True, type=identifier)
     new.add_argument('--spread', default='present')
+    new.add_argument('--deck', choices=tuple(DECK_IDS), default='full')
     new.add_argument('--upright-only', action='store_true')
     new.add_argument('--year', type=int)
     for name in ('select', 'reveal', 'show', 'clear'):

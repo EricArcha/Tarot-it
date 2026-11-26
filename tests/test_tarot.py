@@ -138,6 +138,42 @@ class TarotTest(unittest.TestCase):
         self.assertTrue(all(x['orientation'] == 'upright' for x in revealed['cards']))
         self.action('select', started, '--cut', 4, error='already_revealed')
 
+    def test_selected_deck_controls_pool_and_selection_bounds(self):
+        all_cards = set(json.loads((ASSETS / 'manifest.json').read_text())['cards'])
+        major_cards = {key for key in all_cards if key.startswith('major-')}
+        for deck, size, expected in (('major', 22, major_cards), ('minor', 56, all_cards - major_cards)):
+            with self.subTest(deck=deck):
+                request = new_id()
+                started = self.start('present', '--deck', deck, request=request)
+                self.assertEqual((started['deck'], started['deck_size']), (deck, size))
+                self.assertNotIn('cards', started)
+                self.assertEqual(started, self.start('present', '--deck', deck, request=request))
+                self.cli('start', '--scope', self.scope, '--request', request, '--deck', 'full', error='request_conflict')
+                self.action('select', started, '--cut', size, error='cut')
+                self.action('select', started, '--positions', size + 1, 1, 2, error='positions')
+                self.action('select', started, '--cut', size - 1, '--positions', size, 1, 2)
+                with sqlite3.connect(self.state / 'rounds.sqlite3') as db:
+                    stored = db.execute('SELECT deck FROM rounds WHERE id=?', (started['run_id'],)).fetchone()[0]
+                order = [key for key, _ in json.loads(stored)]
+                self.assertEqual((len(order), set(order)), (size, expected))
+                revealed = self.action('reveal', started)
+                self.assertEqual([card['id'] for card in revealed['cards']], order[-2:] + order[:1])
+                self.assertEqual(self.action('show', started)['cards'], revealed['cards'])
+
+    def test_legacy_round_reuses_full_deck_without_reshuffling(self):
+        request = new_id()
+        started = self.start('single', request=request)
+        with sqlite3.connect(self.state / 'rounds.sqlite3') as db:
+            parameters, deck = db.execute('SELECT parameters, deck FROM rounds').fetchone()
+            old_parameters = json.loads(parameters)
+            del old_parameters['deck']
+            db.execute('UPDATE rounds SET parameters=?', (json.dumps(old_parameters),))
+        self.assertEqual((started['deck'], started['deck_size']), ('full', 78))
+        self.assertEqual(started, self.start('single', '--deck', 'full', request=request))
+        self.action('select', started, '--positions', 78)
+        revealed = self.action('reveal', started)
+        self.assertEqual(revealed['cards'][0]['id'], json.loads(deck)[77][0])
+
     def test_concurrent_reveal_and_reshow(self):
         start = self.start('annual')
         with ThreadPoolExecutor(3) as pool:

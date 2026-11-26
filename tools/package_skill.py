@@ -11,7 +11,7 @@ from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / 'tarot-it'
-VERSION = '1.0.0-rc.3'
+VERSION = '1.0.0-rc.4'
 
 
 def main():
