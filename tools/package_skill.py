@@ -11,14 +11,16 @@ from zipfile import ZIP_DEFLATED, ZipFile, ZipInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / 'tarot-it'
-VERSION = '1.0.0-rc.4'
+VERSION = '1.0.0-rc.5'
 
 
 def main():
+    if (ROOT / 'LICENSE').read_bytes() != (SKILL / 'LICENSE').read_bytes():
+        raise SystemExit('Repository and standalone Skill licenses differ.')
     with TemporaryDirectory() as state:
         run([sys.executable, str(SKILL / 'scripts/tarot.py'), '--state-dir', state, 'check', '--full'], check=True)
     manifest = json.loads((SKILL / 'assets/deck/manifest.json').read_text(encoding='utf-8'))['cards']
-    files = ['SKILL.md', 'scripts/tarot.py', 'scripts/board.py', 'references/spreads.json',
+    files = ['LICENSE', 'SKILL.md', 'scripts/tarot.py', 'scripts/board.py', 'references/spreads.json',
              'references/hosts.md', 'references/credits.md', 'assets/deck/manifest.json']
     for key in manifest:
         files.append(f'references/cards/{key}.json')

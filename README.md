@@ -59,3 +59,5 @@ Cards are drawn locally. You can view them in chat where images are supported, o
 ## 牌面与署名 · Artwork and credits
 
 Pamela Colman Smith 绘制了这副牌的插画。The card artwork is by Pamela Colman Smith. [牌图与牌义来源 · Artwork and reading sources](tarot-it/references/credits.md)
+
+代码和原创牌义采用 MIT 许可。牌图保留各自的公版标记。Code and original card notes are MIT-licensed. The card artwork retains its public-domain markings. [MIT License](LICENSE)
