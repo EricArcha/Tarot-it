@@ -31,10 +31,12 @@
 等助手说装好了，像平时聊天一样发一句。
 
 ```text
-帮我从整副塔罗牌里直接抽一张，翻开看看吧。我想给今天找个小提醒。
+抽一张。
 ```
 
-翻开后，你会看到韦特塔罗的原版插画、牌名和正逆位。想听牌义，再问一句「这张牌怎么解读？」也可以把问题留在心里，下次试试亲自切牌、选号，或抽三张看「现状、盲点、下一步」。
+助手会从整副韦特塔罗里抽一张，直接给你看牌图、牌名和正逆位。想听解读，再说「解读」。
+
+想亲自切牌、选号，就说「陪我慢慢抽一轮」。你也可以带着一件具体的事来，比如「我想占卜一下，最近怎么融入新团队」。助手会带你一步步选好牌，等你说「翻开」。
 
 [手动安装与各助手说明](tarot-it/references/hosts.md#安装与牌图交付)
 
@@ -53,10 +55,12 @@ Please install the complete Tarot-it skill from https://github.com/EricArcha/Tar
 Once your assistant says it's ready, send an ordinary chat message.
 
 ```text
-Could you draw one tarot card from the full deck and turn it over right away? I'd like a little prompt for today.
+Draw one tarot card.
 ```
 
-You'll see the original Rider–Waite–Smith illustration, the card's name, and whether it's upright or reversed. If you're curious, ask what the card means. Readings are primarily in Simplified Chinese. You can also keep your question to yourself, cut the deck, choose your own cards, or try a three-card spread next time.
+Your assistant draws from the full Rider–Waite–Smith deck and shows the card, its name, and whether it's upright or reversed. To hear a reading, ask what the card means. Readings are primarily in Simplified Chinese.
+
+To cut the deck and pick a card yourself, say “Let’s take our time with this draw.” You can also bring a specific question, such as “I'd like a tarot reading about finding my feet on a new team.” Your assistant guides you through the steps and waits for you to say “Turn it over.”
 
 [Manual setup and notes for each assistant](tarot-it/references/hosts.md#安装与牌图交付)
 
