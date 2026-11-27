@@ -18,43 +18,60 @@
 
 ## 简体中文
 
-Tarot-it 是给聊天助手装的塔罗技能。你可以把问题留在心里，自己切牌、选号，也可以让助手替你抽。翻开后会看到绘有原版插画的韦特塔罗牌。想听牌义时，再请助手解读。第一次抽也可以，牌名和正逆位都会随牌面显示。
+### 1. 请助手帮你装
 
-### 第一次怎么玩
+把这句话复制给你正在用的 Codex、Claude Code、OpenClaw 或 Hermes Agent。
 
-1. **先选牌阵。** 牌阵就是这次抽几张、每张看什么。刚开始可以抽一张，或者用三张看「现状、盲点、下一步」。也有关系、两难选择和年度等牌阵。
-2. **再选用哪些牌。** 大阿尔卡纳（22 张）有愚者、星星、太阳等，适合看看这件事的大主题。小阿尔卡纳（56 张）包括四种花色，可以从日常处境里找线索。想两类都用，就选全套韦特（78 张）。
-3. **切牌、选号，或请助手抽。** 选好后说「翻开」。想省掉这几步，可以一开始就说「直接抽」。
+```text
+请从 https://github.com/EricArcha/Tarot-it 帮我安装完整的 Tarot-it 技能（包括牌图），并确认你能找到它。
+```
 
-> 用大阿尔卡纳直接抽一张，只翻牌。
+### 2. 抽一张试试
 
-> 我想看最近的工作状态。用全套韦特，抽三张看现状、盲点和下一步。我想自己选号。
+等助手说装好了，像平时聊天一样发一句。
 
-### 怎么装
+```text
+帮我从整副塔罗牌里直接抽一张，翻开看看吧。我想给今天找个小提醒。
+```
 
-在 GitHub 页面点 **Code → Download ZIP**，解压后找到里面的 `tarot-it` 文件夹。把整个文件夹放到你常用助手的技能目录，具体位置见 [安装说明](tarot-it/references/hosts.md#安装与牌图交付)。支持 Codex、Claude Code、OpenClaw 和 Hermes Agent。装好后，在 Codex 输入 `$tarot-it`，在 Claude Code 输入 `/tarot-it`。
+翻开后，你会看到韦特塔罗的原版插画、牌名和正逆位。想听牌义，再问一句「这张牌怎么解读？」也可以把问题留在心里，下次试试亲自切牌、选号，或抽三张看「现状、盲点、下一步」。
 
-牌面在本地抽取。能在聊天里显示图片时，就直接在聊天里看，也可以在浏览器打开离线牌桌。牌义解读目前以简体中文为主。
+[手动安装与各助手说明](tarot-it/references/hosts.md#安装与牌图交付)
 
 ## English
 
-Tarot-it adds a tarot table to your chat assistant. You can keep your question to yourself, cut the deck, choose card positions, or ask the assistant to draw for you. When you turn the cards over, you'll see the original Rider–Waite–Smith illustrations. Ask for a reading whenever you feel like it. Each revealed card comes with its name and is marked upright or reversed.
+### 1. Ask your assistant to install it
 
-### Your first draw
+Paste this into Codex, Claude Code, OpenClaw, or Hermes Agent.
 
-1. **Choose a spread.** A spread tells you how many cards to draw and what each position is for. Try a single card, or draw three for the situation, the blind spot, and the next step. There are also spreads for relationships, decisions, and the year ahead.
-2. **Choose which cards to use.** The Major Arcana (22 cards) includes The Fool, The Star, and The Sun and can help you reflect on bigger themes. The Minor Arcana (56 cards) has four suits and offers prompts for everyday situations. Pick the full deck (78 cards) to use both.
-3. **Cut the deck, pick positions, or let the assistant draw.** Say “turn them over” when you're ready. For a quick draw, give your spread and deck choice and ask the assistant to reveal the cards right away.
+```text
+Please install the complete Tarot-it skill from https://github.com/EricArcha/Tarot-it, including the card images, and make sure you can find it.
+```
 
-> Draw one card from the Major Arcana and turn it over right away. Just show me the card.
+### 2. Try your first draw
 
-> I'd like to reflect on work. Use the full deck and draw three cards for the situation, my blind spot, and my next step. I'd like to pick the positions myself.
+Once your assistant says it's ready, send an ordinary chat message.
 
-### Get started
+```text
+Could you draw one tarot card from the full deck and turn it over right away? I'd like a little prompt for today.
+```
 
-On GitHub, choose **Code → Download ZIP**. Unzip it and move the entire inner `tarot-it` folder to your assistant's skills directory. See [where to put it](tarot-it/references/hosts.md#安装与牌图交付) for Codex, Claude Code, OpenClaw, and Hermes Agent. Once installed, type `$tarot-it` in Codex or `/tarot-it` in Claude Code.
+You'll see the original Rider–Waite–Smith illustration, the card's name, and whether it's upright or reversed. If you're curious, ask what the card means. Readings are primarily in Simplified Chinese. You can also keep your question to yourself, cut the deck, choose your own cards, or try a three-card spread next time.
 
-Cards are drawn locally. You can view them in chat where images are supported, or open the offline spread in your browser. Card interpretations are currently written primarily in Simplified Chinese.
+[Manual setup and notes for each assistant](tarot-it/references/hosts.md#安装与牌图交付)
+
+<details>
+<summary>终端一行安装 · One-line terminal install</summary>
+
+如果电脑上有 Node.js，可在你要使用的项目目录运行这一行，把 Tarot-it 装进四个助手各自的项目技能目录。
+
+If you have Node.js, run this in your project folder to install Tarot-it for all four assistants in that project.
+
+```sh
+npx skills add https://github.com/EricArcha/Tarot-it --skill tarot-it -a codex -a claude-code -a openclaw -a hermes-agent --copy -y
+```
+
+</details>
 
 ## 牌面与署名 · Artwork and credits
 
